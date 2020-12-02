@@ -21,6 +21,7 @@ Max Mustermann
   - Bestellung 1
     - Schreibtisch (249,99 €)
     - Stuhl (129,99 €)
+    
 Peter Mueller
   - Bestellung 3
     - Monitor (239,79 €)
@@ -31,12 +32,14 @@ Peter Mueller
     - Mikrofasertuch (7,49 €)
     - Teppich (300,00 €)
     - Mauspad (29,50 €)
+    
 Julia Vogt
   - Bestellung 2:
     - Laptop Tragetasche (39,99 €)
     - Laptop (742,90 €)
   - Bestellung 1:
     - Handy-Ladekabel (13,90 €)
+    
 Jan Acker
   - Bestellung 1:
     - Schuhe (83,00 €)
@@ -44,6 +47,7 @@ Jan Acker
   - Bestellung 2:
     - Hose (69,99 €)
     - Pullover (69,99 €)
+    
 Hans Schulz
   - Bestellung 1
     - Rucksack (239,79 €)
@@ -67,18 +71,17 @@ Augenmerk der Challenge:
 
 Beispiel UI:
 
-Vorname | Nachname   | Bestellung | Artikelbeschreibung | Preis
-------------------------------------------------------------------
-...
-Peter   | Mueller    | 1          | Tastatur            | 120,00 €
-Peter   | Mueller    | 1          | Maus                |  49,49 €
-Peter   | Mueller    | 2          | Teppich             | 300,00 €
-Peter   | Mueller    | 2          | Mauspad             |  29,50 €
-Peter   | Mueller    | 2          | Mikrofasertuch      |   7,49 €
-Peter   | Mueller    | 3          | Monitor             | 239,79 €
-Max     | Mustermann | 1          | Schreibtisch        | 249,99 €
-Max     | Mustermann | 1          | Stuhl               | 129,99 €
-...
+| Vorname | Nachname   | Bestellung | Artikelbeschreibung | Preis    |
+|:--------|:-----------|:-----------|:--------------------|:---------|
+| Peter   | Mueller    | 1          | Tastatur            | 120,00 € |
+| Peter   | Mueller    | 1          | Maus                |  49,49 € |
+| Peter   | Mueller    | 2          | Teppich             | 300,00 € |
+| Peter   | Mueller    | 2          | Mauspad             |  29,50 € |
+| Peter   | Mueller    | 2          | Mikrofasertuch      |   7,49 € |
+| Peter   | Mueller    | 3          | Monitor             | 239,79 € |
+| Max     | Mustermann | 1          | Schreibtisch        | 249,99 € |
+| Max     | Mustermann | 1          | Stuhl               | 129,99 € |
+
 
 
 ### Englisch/English
