@@ -22,9 +22,9 @@ Zusammenfassung:
 5. Das Spiel kann durch einen Klick auf `<button id=new"color">` erneut gestartet werden.
 
 Hinweise:
-- Ein Beispiel als Animiertes GIF finden Sie unter /src/example/rgbGuess.gif
+- Beispiel: (/src/example/rgbGuess.gif)
 ![Example visualized](./src/example/rgbGuess.gif)
-- Die Visualisierung kann Ihrerseits geändert/gewählt werden.
+** Die Visualisierung kann Ihrerseits geändert/gewählt werden.
 
 
 ### Englisch/English:
@@ -46,9 +46,9 @@ Summary:
   5. The game can be restarted by clicking on `<button id=new "color">`.
 
 Hints:
-- An example as animated GIF can be found at /src/example/rgbGuess.gif
+- Example GUI (/src/example/rgbGuess.gif)
 ![Beispiel Visalisierung](./src/example/rgbGuess.gif)
-- The visualization can be changed/selected by you.
+** The visualization can be changed/selected by you.
 
 
 
