@@ -22,10 +22,10 @@ Zusammenfassung:
 5. Das Spiel kann durch einen Klick auf `<button id=new"color">` erneut gestartet werden.
 
 Hinweise:
-- Beispiel: (/src/example/rgbGuess.gif)
-![Example visualized](./src/example/rgbGuess.gif)
-** Die Visualisierung kann Ihrerseits geändert/gewählt werden.
+- Beispiel GUI: /src/example/rgbGuess.gif
+- Die Visualisierung kann Ihrerseits geändert/gewählt werden.
 
+![Example visualized](./src/example/rgbGuess.gif)
 
 ### Englisch/English:
 
@@ -46,10 +46,10 @@ Summary:
   5. The game can be restarted by clicking on `<button id=new "color">`.
 
 Hints:
-- Example GUI (/src/example/rgbGuess.gif)
-![Beispiel Visalisierung](./src/example/rgbGuess.gif)
-** The visualization can be changed/selected by you.
+- Example UI: /src/example/rgbGuess.gif
+- The visualization can be changed/selected by you.
 
+![Beispiel Visalisierung](./src/example/rgbGuess.gif)
 
 
 # Getting Started with Create React App

@@ -11,8 +11,6 @@ Beide Arrays sollen zu einem Array zusammengefügt werden. Anschließend soll da
 Zum Schluss soll jeder Eintrag des Arrays grafisch in einer Box dargestellt werden.
 
 Hinweise:
-  - Ob beide Arrays in eins der existierenden Arrays zusammengefügt wird oder ein neues Array erstellt wird ist nicht 
-  vorgeschrieben.
   - Wie die Box gestaltet wird, ist nicht vorgeschrieben.
 
 Beispiel UI:
@@ -32,8 +30,7 @@ the result should be sorted in ascending order. At the end, each entry of that c
 box in the browser.
 
 Notes:
-  - If both arrays are combined in one existing array or if a new one is created does not matter.
-  - It does not matter how the box is styled.
+  - You can visualize the result as you like.
 
 UI example:
 
