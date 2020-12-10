@@ -60,7 +60,7 @@ Anyway: You may create as many folders and files as you wish.
 Your solution is evaluated by executing the source code and analyzing it.
 Therefore please make sure that your solution can be started by the following commands:
 
-``sh
+```sh
 cd <project folder>
 npm install
 npm start

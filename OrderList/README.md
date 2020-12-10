@@ -17,6 +17,7 @@ Zeige die Informationen in einer Tabelle an.
 
 Beispieldaten:
 
+```
 Max Mustermann
   - Bestellung 1
     - Schreibtisch (249,99 €)
@@ -58,10 +59,10 @@ Hans Schulz
   - Bestellung 2
     - Mikrofasertuch (7,49 €)
     - Halskette (300,00 €)
-
+```
 
 Hinweise:
-  - Das Styling der Tabelle ist nicht vorgeschrieben.
+  - Das Visualisieren als Tabelle ist nicht vorgeschrieben.
 
 Augenmerk der Challenge:
 - Erstellung der Datenstruktur
@@ -97,6 +98,7 @@ Display the information in a table.
 
 Example data:
 
+```
 Max Mustermann
   - Order 1
     - Desk (249,99 €)
@@ -134,10 +136,10 @@ Hans Schulz
   - Order 2
     - Microfiber cloth (7,49 €)
     - Necklace (300,00 €)
-
+```
 
 Notes:
-  - The styling of the table is not mandatory.
+  - It is not mandatory to visualize the result as a table.
 
 Attention of the Challenge:
 - Creation of the data structure
@@ -147,18 +149,16 @@ Attention of the Challenge:
 
 Example UI:
 
-First name | Last name  | Order | Item description | Price
-------------------------------------------------------------------
-...
-Peter      | Mueller    | 1     | Keyboard         | 120,00 €
-Peter      | Mueller    | 1     | Mouse            |  49,49 €
-Peter      | Mueller    | 2     | Carpet           | 300,00 €
-Peter      | Mueller    | 2     | Mouse pad        |  29,50 €
-Peter      | Mueller    | 2     | Microfiber cloth |   7,49 €
-Peter      | Mueller    | 3     | Monitor          | 239,79 €
-Max        | Mustermann | 1     | Desk             | 249,99 €
-Max        | Mustermann | 1     | Chair            | 129,99 €
-...
+| First name | Last name  | Order | Item description | Price    |
+|:-----------|:-----------|:------|:-----------------|:---------|
+| Peter      | Mueller    | 1     | Keyboard         | 120,00 € |
+| Peter      | Mueller    | 1     | Mouse            |  49,49 € |
+| Peter      | Mueller    | 2     | Carpet           | 300,00 € |
+| Peter      | Mueller    | 2     | Mouse pad        |  29,50 € |
+| Peter      | Mueller    | 2     | Microfiber cloth |   7,49 € |
+| Peter      | Mueller    | 3     | Monitor          | 239,79 € |
+| Max        | Mustermann | 1     | Desk             | 249,99 € |
+| Max        | Mustermann | 1     | Chair            | 129,99 € |
 
 
 # Getting Started with Create React App
