@@ -32,7 +32,7 @@ npm start
 ```
 
 Informationen / Limitierungen:
-- Bitte fügen Sie dem Projekt keine ausführen Programme hinzu.
+- Bitte fügen Sie dem Projekt keine ausführbaren Programme (*.exe o.Ä.) hinzu.
 - Entfernen Sie die "node_modules" vor dem Zusenden Ihrer Lösung an uns.
 - Bitte installieren Sie zur Problemlösung keine zusätzliches 'node_modules'
 
@@ -67,6 +67,6 @@ npm start
 ```
 
 Information / Limitations:
-- Please do not add executable programs to the project.
+- Please do not add executable programs (*.exe or similar) to the project.
 - Remove the "node_modules" before sending your solution to us.
 - Please do not install any additional 'node_modules' to solve the problem
