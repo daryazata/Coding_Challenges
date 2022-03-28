@@ -1,0 +1,189 @@
+[
+  {
+    "id": "1",
+    "customer_firstname": "Max",
+    "customer_lastname": "Mustermann",
+    "orders": [
+      {
+        "id": "1",
+        "items": [
+          {
+            "id": "1",
+            "title": "Schreibtisch",
+            "price": 249.99
+          },
+          {
+            "id": "2",
+            "title": "Stuhl",
+            "price": 129.99
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "2",
+    "customer_firstname": "Peter",
+    "customer_lastname": "Mueller",
+    "orders": [
+      {
+        "id": "3",
+        "items": [
+          {
+            "id": "1",
+            "title": "Monitor",
+            "price": 239.79
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "items": [
+          {
+            "id": "1",
+            "title": "Maus",
+            "price": 49.49
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "items": [
+          {
+            "id": "1",
+            "title": "Mikrofasertuch",
+            "price": 7.49
+          },
+          {
+            "id": "2",
+            "title": "Teppich",
+            "price": 300.0
+          },
+          {
+            "id": "3",
+            "title": "Mauspad",
+            "price": 29.5
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "3",
+    "customer_firstname": "Julia",
+    "customer_lastname": "Vogt",
+    "orders": [
+      {
+        "id": "2",
+        "items": [
+          {
+            "id": "1",
+            "title": "Laptop Tragetasche",
+            "price": 39.99
+          },
+          {
+            "id": "2",
+            "title": "Laptop",
+            "price": 742.9
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "items": [
+          {
+            "id": "1",
+            "title": "Handy-Ladekabel",
+            "price": 13.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "customer_firstname": "Jan",
+    "customer_lastname": "Acker",
+    "orders": [
+      {
+        "id": "1",
+        "items": [
+          {
+            "id": "1",
+            "title": "Schuhe",
+            "price": 83.0
+          },
+          {
+            "id": "2",
+            "title": "Wintermantel",
+            "price": 139.99
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "items": [
+          {
+            "id": "1",
+            "title": "Hose",
+            "price": 69.99
+          },
+          {
+            "id": "2",
+            "title": "Pullover",
+            "price": 69.99
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "customer_firstname": "Hans",
+    "customer_lastname": "Schulz",
+    "orders": [
+      {
+        "id": "1",
+        "items": [
+          {
+            "id": "1",
+            "title": "Rucksack",
+            "price": 239.79
+          },
+          {
+            "id": "2",
+            "title": "Maus",
+            "price": 49.49
+          },
+          {
+            "id": "3",
+            "title": "Tastatur",
+            "price": 120.0
+          },
+          {
+            "id": "4",
+            "title": "Mauspad",
+            "price": 29.5
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "items": [
+          {
+            "id": "1",
+            "title": "Mikrofasertuch",
+            "price": 7.49
+          },
+          {
+            "id": "2",
+            "title": "Halskette",
+            "price": 300.0
+          }
+        ]
+      }
+    ]
+  }
+]
